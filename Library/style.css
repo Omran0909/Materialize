@@ -15,3 +15,21 @@
 .margin_top {
     margin-top: 20px;
 }
+
+.april {
+    margin-top: -20px;
+}
+
+.friends_colum {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.news_img {
+    width: 5px;
+    height: 5px;
+}
+
+.small_card_for_friends {
+    margin: 0px;
+}
