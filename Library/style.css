@@ -3,8 +3,12 @@
 }
 
 .middle_profile_menu {
-    padding: 5px;
+    padding: px;
     margin-left: 1px;
+}
+
+.middle_profile_menu_friends {
+    padding: 20px;
 }
 
 .home_menu {
@@ -13,11 +17,11 @@
 }
 
 .margin_top {
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 .april {
-    margin-top: -20px;
+    margin-top: -25px;
 }
 
 .friends_colum {
@@ -26,10 +30,11 @@
 }
 
 .news_img {
-    width: 5px;
-    height: 5px;
+    margin-top: 10px;
+    margin-right: -15px;
 }
 
 .small_card_for_friends {
     margin: 0px;
 }
+
